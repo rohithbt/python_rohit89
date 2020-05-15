@@ -3,8 +3,6 @@ A=[1,2,3,4]
 print(A)
 print(A[1])
 print(A[3]) 
-
-
 A[1] = "u can change the list element"
 print(A[1])
 
