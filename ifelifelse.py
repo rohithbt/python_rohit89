@@ -4,4 +4,4 @@ if(marks<40):
 elif(40<marks<=60):
     print("average")
 else:
-    print("congrats! well done...")
+    print("congrats! well done...you have passed")
