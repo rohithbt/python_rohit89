@@ -14,6 +14,6 @@ print(B)
 print(B[3][3])
 
 #lists are enclosed with  brackets[] and tuples with paranthesis()
-#lists are mutable
-#tuples are immutable
+#lists are mutable(cant change)
+#tuples are immutable(can change)
 #tuples are faster than lists
