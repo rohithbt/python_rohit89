@@ -11,3 +11,7 @@ print(list)
 
 list.remove(3)
 print(list)
+
+list1=sorted(['python','java','dotnet','golang'])
+for course in list1[::-1]:
+        print(course)
