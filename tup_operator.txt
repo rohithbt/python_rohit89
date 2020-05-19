@@ -1,0 +1,2 @@
+tup=('home','quarantine','corona')
+print(len(tup))
